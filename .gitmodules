@@ -1,0 +1,8 @@
+[submodule "LeekHunterUI"]
+	path = LeekHunterUI
+	url = https://github.com/ahmadsh2007/LeekHunterUI.git
+	branch = main
+[submodule "LeekHunterDocs"]
+	path = LeekHunterDocs
+	url = https://github.com/ahmadsh2007/LeekHunterDocs.git
+	branch = main
